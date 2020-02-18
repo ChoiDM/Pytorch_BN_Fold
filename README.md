@@ -1,5 +1,6 @@
 # Pytorch_BN_Fold
 Batch Normalization Folding (Fusion of Conv and BN) in Pytorch
+
 Fuse Convolution and Batch Noramlization even if they are not in seqeuntial block.
 
 ```
